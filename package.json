@@ -1,0 +1,18 @@
+﻿{
+  "name": "zadania-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplikacja do zarzadzania zadaniami z logowaniem, tagami, deadline i trybem produktywnosci.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "pdfkit": "^0.16.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
